@@ -11,12 +11,12 @@ npm install astro-lib
 
 **From GitHub**:
 ```bash
-npm install github:USER/astro-lib
+npm install github:pslergy/astro-lib
 ```
 
 **From a local clone**:
 ```bash
-git clone https://github.com/USER/astro-lib.git
+git clone https://github.com/pslergy/astro-lib.git
 cd astro-lib
 npm install
 ```
