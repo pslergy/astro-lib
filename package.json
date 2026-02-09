@@ -1,12 +1,14 @@
 {
-  "name": "astro-lib",
+  "name": "ephemeris-jyotish",
   "version": "1.0.0",
-  "description": "Эфемериды, натальная карта, транзиты, аспекты и Джйотиш (Ашта-кута)",
+  "description": "Ephemeris, natal chart, transits, aspects and Jyotish (Ashta Kuta). Pure JavaScript, no Python.",
   "main": "index.js",
   "scripts": {
     "test": "node test/api-test.js"
   },
-  "keywords": ["ephemeris", "astrology", "natal", "transits", "jyotish", "ashta-kuta"],
+  "keywords": ["ephemeris", "astrology", "natal-chart", "transits", "aspects", "jyotish", "vedic-astrology", "ashta-kuta", "compatibility", "moon-phase"],
+  "repository": { "type": "git", "url": "https://github.com/pslergy/astro-lib.git" },
+  "homepage": "https://github.com/pslergy/astro-lib#readme",
   "author": "",
   "license": "MIT",
   "dependencies": {
