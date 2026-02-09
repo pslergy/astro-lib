@@ -1,0 +1,15 @@
+{
+  "name": "astro-lib",
+  "version": "1.0.0",
+  "description": "Эфемериды, натальная карта, транзиты, аспекты и Джйотиш (Ашта-кута)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/api-test.js"
+  },
+  "keywords": ["ephemeris", "astrology", "natal", "transits", "jyotish", "ashta-kuta"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ephemeris": "^2.2.0"
+  }
+}
